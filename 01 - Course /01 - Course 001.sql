@@ -1,6 +1,6 @@
 -- In This Practice we'll learn How to Create a DataBase
 -- using COMMANDS (MySQL Workbench | MySQL Command line Client)
-
+ 
 ----------------------------------------------------
 
 -- 1) this line Create a DataBase named : Country
